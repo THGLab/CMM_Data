@@ -1,4 +1,4 @@
-This folder contains three sub-folders which have the data used to parameterize the ion-water
+The folders here have the data used to parameterize and validate the ion-water
 and ion-ion interactions in CMM.
 
 - aimd: Coordinates and EDA outputs in CSV format. AIMD is run with wB97XV/def2-TZVPPD. Sampled
