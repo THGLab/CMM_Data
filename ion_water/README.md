@@ -1,5 +1,5 @@
-This folder contains three sub-folders which have the data used to parameterize the ion-water
-and ion-ion interactions in CMM.
+The folders here have the data used to parameterize and validate the ion-water
+and ion-ion interactions in CMM. All data is computed with wB97X-V/def2-QZVPPD. An example input stub is available, `example_input_eda.in`, to ensure calculations are easily reproducible.
 
 - aimd: Coordinates and EDA outputs in CSV format. AIMD is run with wB97XV/def2-TZVPPD. Sampled
 structures are re-labeled with wB97XV/def2-QZVPPD.
@@ -19,3 +19,5 @@ ion_water_mbe_eda_wb97xv_qzvppd.xyz
 - train_test_splits: Shows the specific train/test splits used in parameterizing the ions.
 250 structures are drawn randomly from the aimd and mbe_data folders resulting in 750
 total structures for fitting since both dimers and trimers are drawn from the clusters.
+
+- ion_ion_water_scans: Scans of ion-pairs with and without an extra water molecule. Scans are relaxed.
