@@ -1,21 +1,40 @@
 REMARK   Generated from XYZ file
-ATOM      1   CA    CA  A   1       0.000  -0.000  -0.000  1.00  0.00          Ca  
-ATOM      2    O    HOH A   2      -1.806   0.314  -1.541  1.00  0.00           O  
-ATOM      3   H1    HOH A   2      -2.593   0.857  -1.416  1.00  0.00           H  
-ATOM      4   H2    HOH A   2      -1.901  -0.078  -2.417  1.00  0.00           H  
-ATOM      5    O    HOH A   3      -1.148  -1.867   0.966  1.00  0.00           O  
-ATOM      6   H1    HOH A   3      -0.850  -2.420   1.698  1.00  0.00           H  
-ATOM      7   H2    HOH A   3      -2.007  -2.221   0.709  1.00  0.00           H  
-ATOM      8    O    HOH A   4       1.807  -0.314   1.541  1.00  0.00           O  
-ATOM      9   H1    HOH A   4       2.590  -0.862   1.419  1.00  0.00           H  
-ATOM     10   H2    HOH A   4       1.903   0.082   2.415  1.00  0.00           H  
-ATOM     11    O    HOH A   5      -1.076   1.466   1.558  1.00  0.00           O  
-ATOM     12   H1    HOH A   5      -0.971   2.421   1.630  1.00  0.00           H  
-ATOM     13   H2    HOH A   5      -1.707   1.225   2.246  1.00  0.00           H  
-ATOM     14    O    HOH A   6       1.149   1.866  -0.966  1.00  0.00           O  
-ATOM     15   H1    HOH A   6       2.009   2.219  -0.709  1.00  0.00           H  
-ATOM     16   H2    HOH A   6       0.850   2.423  -1.694  1.00  0.00           H  
-ATOM     17    O    HOH A   7       1.076  -1.466  -1.560  1.00  0.00           O  
-ATOM     18   H1    HOH A   7       1.705  -1.224  -2.249  1.00  0.00           H  
-ATOM     19   H2    HOH A   7       0.971  -2.421  -1.630  1.00  0.00           H  
+REMARK   CONECT records included for water molecules
+ATOM      1 CA   CA  A   1       0.000  -0.000  -0.000  1.00  0.00          Ca  
+ATOM      2 O    HOH A   2      -1.806   0.314  -1.541  1.00  0.00           O  
+ATOM      3 H1   HOH A   2      -2.593   0.857  -1.416  1.00  0.00           H  
+ATOM      4 H2   HOH A   2      -1.901  -0.078  -2.417  1.00  0.00           H  
+ATOM      5 O    HOH A   3      -1.148  -1.867   0.966  1.00  0.00           O  
+ATOM      6 H1   HOH A   3      -0.850  -2.420   1.698  1.00  0.00           H  
+ATOM      7 H2   HOH A   3      -2.007  -2.221   0.709  1.00  0.00           H  
+ATOM      8 O    HOH A   4       1.807  -0.314   1.541  1.00  0.00           O  
+ATOM      9 H1   HOH A   4       2.590  -0.862   1.419  1.00  0.00           H  
+ATOM     10 H2   HOH A   4       1.903   0.082   2.415  1.00  0.00           H  
+ATOM     11 O    HOH A   5      -1.076   1.466   1.558  1.00  0.00           O  
+ATOM     12 H1   HOH A   5      -0.971   2.421   1.630  1.00  0.00           H  
+ATOM     13 H2   HOH A   5      -1.707   1.225   2.246  1.00  0.00           H  
+ATOM     14 O    HOH A   6       1.149   1.866  -0.966  1.00  0.00           O  
+ATOM     15 H1   HOH A   6       2.009   2.219  -0.709  1.00  0.00           H  
+ATOM     16 H2   HOH A   6       0.850   2.423  -1.694  1.00  0.00           H  
+ATOM     17 O    HOH A   7       1.076  -1.466  -1.560  1.00  0.00           O  
+ATOM     18 H1   HOH A   7       1.705  -1.224  -2.249  1.00  0.00           H  
+ATOM     19 H2   HOH A   7       0.971  -2.421  -1.630  1.00  0.00           H  
+CONECT    2    3    4
+CONECT    3    2
+CONECT    4    2
+CONECT    5    6    7
+CONECT    6    5
+CONECT    7    5
+CONECT    8    9   10
+CONECT    9    8
+CONECT   10    8
+CONECT   11   12   13
+CONECT   12   11
+CONECT   13   11
+CONECT   14   15   16
+CONECT   15   14
+CONECT   16   14
+CONECT   17   18   19
+CONECT   18   17
+CONECT   19   17
 END

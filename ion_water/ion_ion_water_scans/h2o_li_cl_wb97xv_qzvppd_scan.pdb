@@ -1,185 +1,264 @@
 REMARK   Generated from XYZ file
 REMARK   Contains 26 frames/models
+REMARK   CONECT records included for water molecules
 MODEL        1
-ATOM      1    O    HOH A   1       1.039  -0.021   0.275  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.613  -0.603   0.779  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.575   0.730   0.010  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.845  -0.304  -0.081  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.382  -0.619  -0.383  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.039  -0.021   0.275  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.613  -0.603   0.779  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.575   0.730   0.010  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.845  -0.304  -0.081  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.382  -0.619  -0.383  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        2
-ATOM      1    O    HOH A   1       1.056  -0.015   0.282  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.630  -0.600   0.781  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.595   0.731   0.012  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.823  -0.300  -0.079  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.458  -0.633  -0.397  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.056  -0.015   0.282  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.630  -0.600   0.781  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.595   0.731   0.012  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.823  -0.300  -0.079  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.458  -0.633  -0.397  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        3
-ATOM      1    O    HOH A   1       1.070  -0.004   0.295  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.643  -0.602   0.780  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.619   0.729   0.009  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.802  -0.284  -0.075  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.530  -0.655  -0.410  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.070  -0.004   0.295  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.643  -0.602   0.780  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.619   0.729   0.009  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.802  -0.284  -0.075  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.530  -0.655  -0.410  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        4
-ATOM      1    O    HOH A   1       1.087  -0.001   0.298  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.660  -0.599   0.784  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.637   0.732   0.013  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.780  -0.279  -0.071  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.604  -0.669  -0.424  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.087  -0.001   0.298  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.660  -0.599   0.784  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.637   0.732   0.013  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.780  -0.279  -0.071  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.604  -0.669  -0.424  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        5
-ATOM      1    O    HOH A   1       1.105   0.003   0.303  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.678  -0.597   0.787  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.656   0.735   0.016  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.759  -0.274  -0.067  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.680  -0.684  -0.438  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.105   0.003   0.303  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.678  -0.597   0.787  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.656   0.735   0.016  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.759  -0.274  -0.067  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.680  -0.684  -0.438  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        6
-ATOM      1    O    HOH A   1       1.123   0.004   0.303  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.694  -0.593   0.791  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.673   0.739   0.021  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.736  -0.270  -0.064  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.754  -0.697  -0.451  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.123   0.004   0.303  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.694  -0.593   0.791  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.673   0.739   0.021  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.736  -0.270  -0.064  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.754  -0.697  -0.451  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        7
-ATOM      1    O    HOH A   1       1.140   0.008   0.308  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.712  -0.591   0.794  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.691   0.742   0.024  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.715  -0.265  -0.060  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.829  -0.712  -0.466  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.140   0.008   0.308  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.712  -0.591   0.794  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.691   0.742   0.024  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.715  -0.265  -0.060  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.829  -0.712  -0.466  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        8
-ATOM      1    O    HOH A   1       1.159   0.010   0.309  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.729  -0.587   0.799  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.709   0.746   0.029  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.693  -0.260  -0.057  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.904  -0.726  -0.479  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.159   0.010   0.309  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.729  -0.587   0.799  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.709   0.746   0.029  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.693  -0.260  -0.057  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.904  -0.726  -0.479  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL        9
-ATOM      1    O    HOH A   1       1.176   0.014   0.313  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.747  -0.584   0.802  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.727   0.749   0.032  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.671  -0.255  -0.054  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -2.979  -0.740  -0.494  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.176   0.014   0.313  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.747  -0.584   0.802  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.727   0.749   0.032  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.671  -0.255  -0.054  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -2.979  -0.740  -0.494  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       10
-ATOM      1    O    HOH A   1       1.194   0.017   0.316  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.764  -0.581   0.806  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.745   0.752   0.036  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.649  -0.251  -0.050  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.054  -0.754  -0.507  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.194   0.017   0.316  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.764  -0.581   0.806  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.745   0.752   0.036  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.649  -0.251  -0.050  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.054  -0.754  -0.507  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       11
-ATOM      1    O    HOH A   1       1.212   0.020   0.319  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.782  -0.578   0.810  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.763   0.755   0.040  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.628  -0.246  -0.047  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.129  -0.768  -0.521  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.212   0.020   0.319  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.782  -0.578   0.810  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.763   0.755   0.040  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.628  -0.246  -0.047  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.129  -0.768  -0.521  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       12
-ATOM      1    O    HOH A   1       1.230   0.022   0.321  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.799  -0.575   0.814  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.781   0.759   0.044  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.606  -0.241  -0.044  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.204  -0.782  -0.535  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.230   0.022   0.321  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.799  -0.575   0.814  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.781   0.759   0.044  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.606  -0.241  -0.044  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.204  -0.782  -0.535  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       13
-ATOM      1    O    HOH A   1       1.249   0.026   0.325  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.818  -0.572   0.817  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.800   0.762   0.048  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.586  -0.236  -0.041  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.280  -0.797  -0.550  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.249   0.026   0.325  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.818  -0.572   0.817  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.800   0.762   0.048  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.586  -0.236  -0.041  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.280  -0.797  -0.550  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       14
-ATOM      1    O    HOH A   1       1.266   0.029   0.328  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.835  -0.569   0.821  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.818   0.765   0.052  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.564  -0.231  -0.037  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.355  -0.811  -0.564  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.266   0.029   0.328  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.835  -0.569   0.821  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.818   0.765   0.052  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.564  -0.231  -0.037  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.355  -0.811  -0.564  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       15
-ATOM      1    O    HOH A   1       1.284   0.032   0.332  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.853  -0.566   0.825  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.836   0.768   0.055  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.543  -0.226  -0.034  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.431  -0.826  -0.578  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.284   0.032   0.332  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.853  -0.566   0.825  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.836   0.768   0.055  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.543  -0.226  -0.034  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.431  -0.826  -0.578  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       16
-ATOM      1    O    HOH A   1       1.303   0.035   0.335  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.871  -0.563   0.828  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.855   0.772   0.059  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.523  -0.221  -0.031  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.506  -0.840  -0.592  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.303   0.035   0.335  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.871  -0.563   0.828  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.855   0.772   0.059  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.523  -0.221  -0.031  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.506  -0.840  -0.592  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       17
-ATOM      1    O    HOH A   1       1.321   0.038   0.338  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.889  -0.560   0.832  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.874   0.775   0.063  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.502  -0.216  -0.028  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.582  -0.855  -0.606  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.321   0.038   0.338  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.889  -0.560   0.832  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.874   0.775   0.063  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.502  -0.216  -0.028  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.582  -0.855  -0.606  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       18
-ATOM      1    O    HOH A   1       1.339   0.042   0.342  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.907  -0.557   0.836  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.893   0.778   0.067  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.481  -0.210  -0.025  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.658  -0.870  -0.620  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.339   0.042   0.342  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.907  -0.557   0.836  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.893   0.778   0.067  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.481  -0.210  -0.025  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.658  -0.870  -0.620  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       19
-ATOM      1    O    HOH A   1       1.358   0.045   0.345  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.923  -0.554   0.840  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.913   0.780   0.071  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.461  -0.202  -0.023  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.734  -0.885  -0.633  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.358   0.045   0.345  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.923  -0.554   0.840  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.913   0.780   0.071  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.461  -0.202  -0.023  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.734  -0.885  -0.633  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       20
-ATOM      1    O    HOH A   1       1.376   0.049   0.348  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.940  -0.552   0.844  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.934   0.783   0.075  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.441  -0.195  -0.022  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.810  -0.901  -0.646  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.376   0.049   0.348  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.940  -0.552   0.844  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.934   0.783   0.075  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.441  -0.195  -0.022  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.810  -0.901  -0.646  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       21
-ATOM      1    O    HOH A   1       1.395   0.052   0.351  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.958  -0.549   0.848  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.953   0.786   0.080  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.420  -0.189  -0.019  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.886  -0.916  -0.660  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.395   0.052   0.351  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.958  -0.549   0.848  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.953   0.786   0.080  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.420  -0.189  -0.019  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.886  -0.916  -0.660  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       22
-ATOM      1    O    HOH A   1       1.413   0.056   0.355  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.975  -0.547   0.851  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.973   0.788   0.084  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.400  -0.183  -0.016  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -3.962  -0.932  -0.674  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.413   0.056   0.355  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.975  -0.547   0.851  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.973   0.788   0.084  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.400  -0.183  -0.016  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -3.962  -0.932  -0.674  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       23
-ATOM      1    O    HOH A   1       1.432   0.059   0.359  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       1.994  -0.544   0.855  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       1.993   0.792   0.088  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.380  -0.178  -0.013  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -4.038  -0.947  -0.688  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.432   0.059   0.359  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       1.994  -0.544   0.855  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       1.993   0.792   0.088  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.380  -0.178  -0.013  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -4.038  -0.947  -0.688  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       24
-ATOM      1    O    HOH A   1       1.451   0.062   0.362  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       2.012  -0.541   0.859  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       2.012   0.795   0.091  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.360  -0.172  -0.010  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -4.115  -0.961  -0.702  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.451   0.062   0.362  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       2.012  -0.541   0.859  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       2.012   0.795   0.091  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.360  -0.172  -0.010  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -4.115  -0.961  -0.702  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       25
-ATOM      1    O    HOH A   1       1.470   0.066   0.366  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       2.030  -0.538   0.862  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       2.032   0.798   0.095  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.340  -0.167  -0.007  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -4.191  -0.976  -0.717  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.470   0.066   0.366  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       2.030  -0.538   0.862  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       2.032   0.798   0.095  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.340  -0.167  -0.007  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -4.191  -0.976  -0.717  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 MODEL       26
-ATOM      1    O    HOH A   1       1.488   0.069   0.369  1.00  0.00           O  
-ATOM      2   H1    HOH A   1       2.048  -0.535   0.866  1.00  0.00           H  
-ATOM      3   H2    HOH A   1       2.051   0.801   0.099  1.00  0.00           H  
-ATOM      4   LI    LI  A   2      -0.320  -0.162  -0.004  1.00  0.00          Li  
-ATOM      5   CL    CL  A   3      -4.267  -0.991  -0.731  1.00  0.00          Cl  
+ATOM      1 O    HOH A   1       1.488   0.069   0.369  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       2.048  -0.535   0.866  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       2.051   0.801   0.099  1.00  0.00           H  
+ATOM      4 LI   LI  A   2      -0.320  -0.162  -0.004  1.00  0.00          Li  
+ATOM      5 CL   CL  A   3      -4.267  -0.991  -0.731  1.00  0.00          Cl  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
 ENDMDL
 END
