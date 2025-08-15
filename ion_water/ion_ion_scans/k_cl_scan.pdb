@@ -1,0 +1,248 @@
+REMARK   Generated from XYZ file
+REMARK   Contains 61 frames/models
+REMARK   CONECT records included for water molecules
+MODEL        1
+ATOM      1 K    K   A   1       0.300   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.388   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        2
+ATOM      1 K    K   A   1       0.250   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.438   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        3
+ATOM      1 K    K   A   1       0.200   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.488   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        4
+ATOM      1 K    K   A   1       0.150   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.538   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        5
+ATOM      1 K    K   A   1       0.100   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.588   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        6
+ATOM      1 K    K   A   1       0.050   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.638   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        7
+ATOM      1 K    K   A   1       0.000   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.688   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        8
+ATOM      1 K    K   A   1      -0.050   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.738   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL        9
+ATOM      1 K    K   A   1      -0.100   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.788   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       10
+ATOM      1 K    K   A   1      -0.150   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.838   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       11
+ATOM      1 K    K   A   1      -0.200   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.888   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       12
+ATOM      1 K    K   A   1      -0.250   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.938   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       13
+ATOM      1 K    K   A   1      -0.300   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       2.988   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       14
+ATOM      1 K    K   A   1      -0.350   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.038   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       15
+ATOM      1 K    K   A   1      -0.400   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.088   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       16
+ATOM      1 K    K   A   1      -0.450   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.138   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       17
+ATOM      1 K    K   A   1      -0.500   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.188   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       18
+ATOM      1 K    K   A   1      -0.550   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.238   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       19
+ATOM      1 K    K   A   1      -0.600   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.288   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       20
+ATOM      1 K    K   A   1      -0.650   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.338   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       21
+ATOM      1 K    K   A   1      -0.700   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.388   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       22
+ATOM      1 K    K   A   1      -0.750   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.438   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       23
+ATOM      1 K    K   A   1      -0.800   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.488   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       24
+ATOM      1 K    K   A   1      -0.850   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.538   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       25
+ATOM      1 K    K   A   1      -0.900   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.588   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       26
+ATOM      1 K    K   A   1      -0.950   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.638   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       27
+ATOM      1 K    K   A   1      -1.000   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.688   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       28
+ATOM      1 K    K   A   1      -1.050   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.738   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       29
+ATOM      1 K    K   A   1      -1.100   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.788   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       30
+ATOM      1 K    K   A   1      -1.150   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.838   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       31
+ATOM      1 K    K   A   1      -1.200   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.888   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       32
+ATOM      1 K    K   A   1      -1.250   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.938   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       33
+ATOM      1 K    K   A   1      -1.300   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       3.988   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       34
+ATOM      1 K    K   A   1      -1.350   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.038   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       35
+ATOM      1 K    K   A   1      -1.400   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.088   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       36
+ATOM      1 K    K   A   1      -1.450   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.138   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       37
+ATOM      1 K    K   A   1      -1.500   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.188   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       38
+ATOM      1 K    K   A   1      -1.550   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.238   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       39
+ATOM      1 K    K   A   1      -1.600   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.288   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       40
+ATOM      1 K    K   A   1      -1.650   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.338   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       41
+ATOM      1 K    K   A   1      -1.700   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.388   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       42
+ATOM      1 K    K   A   1      -1.750   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.438   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       43
+ATOM      1 K    K   A   1      -1.800   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.488   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       44
+ATOM      1 K    K   A   1      -1.850   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.538   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       45
+ATOM      1 K    K   A   1      -1.900   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.588   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       46
+ATOM      1 K    K   A   1      -1.950   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.638   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       47
+ATOM      1 K    K   A   1      -2.000   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.688   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       48
+ATOM      1 K    K   A   1      -2.050   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.738   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       49
+ATOM      1 K    K   A   1      -2.100   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.788   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       50
+ATOM      1 K    K   A   1      -2.150   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.838   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       51
+ATOM      1 K    K   A   1      -2.200   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.888   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       52
+ATOM      1 K    K   A   1      -2.250   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.938   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       53
+ATOM      1 K    K   A   1      -2.300   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       4.988   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       54
+ATOM      1 K    K   A   1      -2.350   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.038   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       55
+ATOM      1 K    K   A   1      -2.400   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.088   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       56
+ATOM      1 K    K   A   1      -2.450   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.138   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       57
+ATOM      1 K    K   A   1      -2.500   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.188   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       58
+ATOM      1 K    K   A   1      -2.550   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.238   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       59
+ATOM      1 K    K   A   1      -2.600   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.288   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       60
+ATOM      1 K    K   A   1      -2.650   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.338   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+MODEL       61
+ATOM      1 K    K   A   1      -2.700   0.000   0.000  1.00  0.00           K  
+ATOM      2 CL   CL  A   2       5.388   0.000   0.000  1.00  0.00          Cl  
+ENDMDL
+END

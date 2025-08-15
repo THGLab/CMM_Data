@@ -1,0 +1,463 @@
+REMARK   Generated from XYZ file
+REMARK   Contains 51 frames/models
+REMARK   CONECT records included for water molecules
+MODEL        1
+ATOM      1 O    HOH A   1       0.187  -0.612  -0.265  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.979  -0.077  -0.179  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.507  -1.330  -0.841  1.00  0.00           H  
+ATOM      4 I    I   A   2       1.924  -2.326  -1.963  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        2
+ATOM      1 O    HOH A   1       0.157  -0.582  -0.235  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.949  -0.047  -0.149  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.476  -1.300  -0.811  1.00  0.00           H  
+ATOM      4 I    I   A   2       1.954  -2.356  -1.992  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        3
+ATOM      1 O    HOH A   1       0.126  -0.552  -0.205  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.918  -0.017  -0.120  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.446  -1.270  -0.781  1.00  0.00           H  
+ATOM      4 I    I   A   2       1.984  -2.386  -2.022  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        4
+ATOM      1 O    HOH A   1       0.096  -0.522  -0.176  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.888   0.013  -0.090  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.416  -1.240  -0.752  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.015  -2.416  -2.052  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        5
+ATOM      1 O    HOH A   1       0.066  -0.492  -0.146  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.858   0.043  -0.060  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.385  -1.210  -0.722  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.045  -2.446  -2.082  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        6
+ATOM      1 O    HOH A   1       0.035  -0.462  -0.116  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.827   0.073  -0.031  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.355  -1.180  -0.692  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.076  -2.476  -2.111  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        7
+ATOM      1 O    HOH A   1       0.005  -0.432  -0.086  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.797   0.103  -0.001  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.324  -1.150  -0.662  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.106  -2.505  -2.141  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        8
+ATOM      1 O    HOH A   1      -0.025  -0.402  -0.057  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.766   0.133   0.029  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.294  -1.120  -0.633  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.136  -2.535  -2.171  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL        9
+ATOM      1 O    HOH A   1      -0.056  -0.372  -0.027  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.736   0.163   0.059  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.264  -1.090  -0.603  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.167  -2.565  -2.200  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       10
+ATOM      1 O    HOH A   1      -0.086  -0.342   0.003  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.706   0.193   0.088  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.233  -1.060  -0.573  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.197  -2.595  -2.230  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       11
+ATOM      1 O    HOH A   1      -0.117  -0.312   0.032  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.675   0.222   0.118  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.203  -1.030  -0.544  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.227  -2.625  -2.260  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       12
+ATOM      1 O    HOH A   1      -0.147  -0.282   0.062  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.645   0.252   0.148  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.173  -1.000  -0.514  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.258  -2.655  -2.290  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       13
+ATOM      1 O    HOH A   1      -0.177  -0.252   0.092  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.614   0.282   0.177  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.142  -0.970  -0.484  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.288  -2.685  -2.319  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       14
+ATOM      1 O    HOH A   1      -0.208  -0.222   0.122  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.584   0.312   0.207  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.112  -0.940  -0.454  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.319  -2.715  -2.349  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       15
+ATOM      1 O    HOH A   1      -0.238  -0.192   0.151  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.554   0.342   0.237  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.081  -0.910  -0.425  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.349  -2.745  -2.379  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       16
+ATOM      1 O    HOH A   1      -0.269  -0.162   0.181  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.523   0.372   0.267  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.051  -0.880  -0.395  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.379  -2.775  -2.408  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       17
+ATOM      1 O    HOH A   1      -0.299  -0.132   0.211  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.493   0.402   0.296  1.00  0.00           H  
+ATOM      3 H2   HOH A   1       0.021  -0.850  -0.365  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.410  -2.805  -2.438  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       18
+ATOM      1 O    HOH A   1      -0.329  -0.102   0.240  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.463   0.432   0.326  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.010  -0.820  -0.336  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.440  -2.835  -2.468  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       19
+ATOM      1 O    HOH A   1      -0.360  -0.072   0.270  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.432   0.462   0.356  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.040  -0.790  -0.306  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.471  -2.865  -2.497  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       20
+ATOM      1 O    HOH A   1      -0.390  -0.042   0.300  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.402   0.492   0.385  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.071  -0.760  -0.276  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.501  -2.895  -2.527  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       21
+ATOM      1 O    HOH A   1      -0.420  -0.012   0.329  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.371   0.522   0.415  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.101  -0.730  -0.247  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.531  -2.925  -2.557  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       22
+ATOM      1 O    HOH A   1      -0.451   0.018   0.359  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.341   0.552   0.445  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.131  -0.700  -0.217  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.562  -2.955  -2.587  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       23
+ATOM      1 O    HOH A   1      -0.481   0.048   0.389  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.311   0.582   0.474  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.162  -0.670  -0.187  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.592  -2.985  -2.616  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       24
+ATOM      1 O    HOH A   1      -0.512   0.078   0.419  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.280   0.612   0.504  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.192  -0.640  -0.157  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.622  -3.015  -2.646  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       25
+ATOM      1 O    HOH A   1      -0.542   0.108   0.448  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.250   0.642   0.534  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.222  -0.610  -0.128  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.653  -3.045  -2.676  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       26
+ATOM      1 O    HOH A   1      -0.572   0.138   0.478  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.220   0.672   0.564  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.253  -0.580  -0.098  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.683  -3.075  -2.705  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       27
+ATOM      1 O    HOH A   1      -0.603   0.168   0.508  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.189   0.702   0.593  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.283  -0.550  -0.068  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.714  -3.105  -2.735  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       28
+ATOM      1 O    HOH A   1      -0.633   0.198   0.537  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.159   0.732   0.623  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.314  -0.520  -0.039  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.744  -3.135  -2.765  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       29
+ATOM      1 O    HOH A   1      -0.663   0.227   0.567  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.128   0.762   0.653  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.344  -0.490  -0.009  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.774  -3.165  -2.795  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       30
+ATOM      1 O    HOH A   1      -0.694   0.257   0.597  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.098   0.792   0.682  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.374  -0.460   0.021  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.805  -3.195  -2.824  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       31
+ATOM      1 O    HOH A   1      -0.724   0.287   0.627  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.068   0.822   0.712  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.405  -0.430   0.051  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.835  -3.225  -2.854  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       32
+ATOM      1 O    HOH A   1      -0.755   0.317   0.656  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.037   0.852   0.742  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.435  -0.400   0.080  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.865  -3.255  -2.884  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       33
+ATOM      1 O    HOH A   1      -0.785   0.347   0.686  1.00  0.00           O  
+ATOM      2 H1   HOH A   1       0.007   0.882   0.772  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.465  -0.371   0.110  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.896  -3.285  -2.913  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       34
+ATOM      1 O    HOH A   1      -0.815   0.377   0.716  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.023   0.912   0.801  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.496  -0.341   0.140  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.926  -3.315  -2.943  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       35
+ATOM      1 O    HOH A   1      -0.846   0.407   0.745  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.054   0.942   0.831  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.526  -0.311   0.169  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.957  -3.345  -2.973  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       36
+ATOM      1 O    HOH A   1      -0.876   0.437   0.775  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.084   0.972   0.861  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.557  -0.281   0.199  1.00  0.00           H  
+ATOM      4 I    I   A   2       2.987  -3.375  -3.003  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       37
+ATOM      1 O    HOH A   1      -0.906   0.467   0.805  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.115   1.002   0.890  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.587  -0.251   0.229  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.017  -3.405  -3.032  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       38
+ATOM      1 O    HOH A   1      -0.937   0.497   0.834  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.145   1.032   0.920  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.617  -0.221   0.258  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.048  -3.435  -3.062  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       39
+ATOM      1 O    HOH A   1      -0.967   0.527   0.864  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.175   1.062   0.950  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.648  -0.191   0.288  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.078  -3.465  -3.092  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       40
+ATOM      1 O    HOH A   1      -0.998   0.557   0.894  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.206   1.092   0.979  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.678  -0.161   0.318  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.108  -3.495  -3.121  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       41
+ATOM      1 O    HOH A   1      -1.028   0.587   0.924  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.236   1.122   1.009  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.708  -0.131   0.348  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.139  -3.525  -3.151  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       42
+ATOM      1 O    HOH A   1      -1.058   0.617   0.953  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.266   1.152   1.039  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.739  -0.101   0.377  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.169  -3.555  -3.181  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       43
+ATOM      1 O    HOH A   1      -1.089   0.647   0.983  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.297   1.182   1.069  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.769  -0.071   0.407  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.200  -3.585  -3.210  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       44
+ATOM      1 O    HOH A   1      -1.119   0.677   1.013  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.327   1.212   1.098  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.800  -0.041   0.437  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.230  -3.615  -3.240  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       45
+ATOM      1 O    HOH A   1      -1.149   0.707   1.042  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.358   1.242   1.128  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.830  -0.011   0.466  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.260  -3.645  -3.270  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       46
+ATOM      1 O    HOH A   1      -1.180   0.737   1.072  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.388   1.272   1.158  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.860   0.019   0.496  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.291  -3.675  -3.300  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       47
+ATOM      1 O    HOH A   1      -1.210   0.767   1.102  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.418   1.302   1.187  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.891   0.049   0.526  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.321  -3.705  -3.329  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       48
+ATOM      1 O    HOH A   1      -1.241   0.797   1.132  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.449   1.332   1.217  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.921   0.079   0.556  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.351  -3.735  -3.359  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       49
+ATOM      1 O    HOH A   1      -1.271   0.827   1.161  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.479   1.362   1.247  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.951   0.109   0.585  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.382  -3.765  -3.389  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       50
+ATOM      1 O    HOH A   1      -1.301   0.857   1.191  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.510   1.392   1.277  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -0.982   0.139   0.615  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.412  -3.795  -3.418  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+MODEL       51
+ATOM      1 O    HOH A   1      -1.332   0.887   1.221  1.00  0.00           O  
+ATOM      2 H1   HOH A   1      -0.540   1.422   1.306  1.00  0.00           H  
+ATOM      3 H2   HOH A   1      -1.012   0.169   0.645  1.00  0.00           H  
+ATOM      4 I    I   A   2       3.443  -3.825  -3.448  1.00  0.00           I  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+ENDMDL
+END

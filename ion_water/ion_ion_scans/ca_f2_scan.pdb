@@ -1,0 +1,1554 @@
+REMARK   Generated from XYZ file
+REMARK   Contains 310 frames/models
+REMARK   CONECT records included for water molecules
+MODEL        1
+ATOM      1 F    F   A   1      -1.727   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.727   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL        2
+ATOM      1 F    F   A   1      -1.721  -0.123   0.087  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.721  -0.123   0.087  1.00  0.00           F  
+ENDMDL
+MODEL        3
+ATOM      1 F    F   A   1      -1.701  -0.245   0.172  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.701  -0.245   0.172  1.00  0.00           F  
+ENDMDL
+MODEL        4
+ATOM      1 F    F   A   1      -1.669  -0.366   0.257  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.669  -0.366   0.257  1.00  0.00           F  
+ENDMDL
+MODEL        5
+ATOM      1 F    F   A   1      -1.623  -0.483   0.340  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.623  -0.483   0.340  1.00  0.00           F  
+ENDMDL
+MODEL        6
+ATOM      1 F    F   A   1      -1.566  -0.597   0.420  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.566  -0.597   0.420  1.00  0.00           F  
+ENDMDL
+MODEL        7
+ATOM      1 F    F   A   1      -1.496  -0.707   0.497  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.496  -0.707   0.497  1.00  0.00           F  
+ENDMDL
+MODEL        8
+ATOM      1 F    F   A   1      -1.415  -0.811   0.570  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.415  -0.811   0.570  1.00  0.00           F  
+ENDMDL
+MODEL        9
+ATOM      1 F    F   A   1      -1.323  -0.908   0.638  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.323  -0.908   0.638  1.00  0.00           F  
+ENDMDL
+MODEL       10
+ATOM      1 F    F   A   1      -1.221  -0.999   0.702  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.221  -0.999   0.702  1.00  0.00           F  
+ENDMDL
+MODEL       11
+ATOM      1 F    F   A   1      -1.827   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.827   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       12
+ATOM      1 F    F   A   1      -1.820  -0.157   0.024  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.820  -0.157   0.024  1.00  0.00           F  
+ENDMDL
+MODEL       13
+ATOM      1 F    F   A   1      -1.800  -0.314   0.048  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.800  -0.314   0.048  1.00  0.00           F  
+ENDMDL
+MODEL       14
+ATOM      1 F    F   A   1      -1.765  -0.467   0.072  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.765  -0.467   0.072  1.00  0.00           F  
+ENDMDL
+MODEL       15
+ATOM      1 F    F   A   1      -1.717  -0.618   0.095  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.717  -0.618   0.095  1.00  0.00           F  
+ENDMDL
+MODEL       16
+ATOM      1 F    F   A   1      -1.656  -0.763   0.117  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.656  -0.763   0.117  1.00  0.00           F  
+ENDMDL
+MODEL       17
+ATOM      1 F    F   A   1      -1.583  -0.903   0.139  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.583  -0.903   0.139  1.00  0.00           F  
+ENDMDL
+MODEL       18
+ATOM      1 F    F   A   1      -1.497  -1.036   0.159  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.497  -1.036   0.159  1.00  0.00           F  
+ENDMDL
+MODEL       19
+ATOM      1 F    F   A   1      -1.400  -1.161   0.179  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.400  -1.161   0.179  1.00  0.00           F  
+ENDMDL
+MODEL       20
+ATOM      1 F    F   A   1      -1.292  -1.277   0.196  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.292  -1.277   0.196  1.00  0.00           F  
+ENDMDL
+MODEL       21
+ATOM      1 F    F   A   1      -1.927   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.927   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       22
+ATOM      1 F    F   A   1      -1.920  -0.157   0.061  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.920  -0.157   0.061  1.00  0.00           F  
+ENDMDL
+MODEL       23
+ATOM      1 F    F   A   1      -1.898  -0.312   0.121  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.898  -0.312   0.121  1.00  0.00           F  
+ENDMDL
+MODEL       24
+ATOM      1 F    F   A   1      -1.862  -0.465   0.180  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.862  -0.465   0.180  1.00  0.00           F  
+ENDMDL
+MODEL       25
+ATOM      1 F    F   A   1      -1.811  -0.615   0.238  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.811  -0.615   0.238  1.00  0.00           F  
+ENDMDL
+MODEL       26
+ATOM      1 F    F   A   1      -1.747  -0.760   0.294  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.747  -0.760   0.294  1.00  0.00           F  
+ENDMDL
+MODEL       27
+ATOM      1 F    F   A   1      -1.669  -0.899   0.348  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.669  -0.899   0.348  1.00  0.00           F  
+ENDMDL
+MODEL       28
+ATOM      1 F    F   A   1      -1.579  -1.031   0.399  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.579  -1.031   0.399  1.00  0.00           F  
+ENDMDL
+MODEL       29
+ATOM      1 F    F   A   1      -1.476  -1.155   0.447  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.476  -1.155   0.447  1.00  0.00           F  
+ENDMDL
+MODEL       30
+ATOM      1 F    F   A   1      -1.363  -1.271   0.492  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.363  -1.271   0.492  1.00  0.00           F  
+ENDMDL
+MODEL       31
+ATOM      1 F    F   A   1      -2.027   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.027   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       32
+ATOM      1 F    F   A   1      -2.020  -0.047   0.170  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.020  -0.047   0.170  1.00  0.00           F  
+ENDMDL
+MODEL       33
+ATOM      1 F    F   A   1      -1.997  -0.093   0.339  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.997  -0.093   0.339  1.00  0.00           F  
+ENDMDL
+MODEL       34
+ATOM      1 F    F   A   1      -1.958  -0.139   0.506  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.958  -0.139   0.506  1.00  0.00           F  
+ENDMDL
+MODEL       35
+ATOM      1 F    F   A   1      -1.905  -0.184   0.669  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.905  -0.184   0.669  1.00  0.00           F  
+ENDMDL
+MODEL       36
+ATOM      1 F    F   A   1      -1.837  -0.227   0.826  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.837  -0.227   0.826  1.00  0.00           F  
+ENDMDL
+MODEL       37
+ATOM      1 F    F   A   1      -1.756  -0.269   0.977  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.756  -0.269   0.977  1.00  0.00           F  
+ENDMDL
+MODEL       38
+ATOM      1 F    F   A   1      -1.661  -0.308   1.121  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.661  -0.308   1.121  1.00  0.00           F  
+ENDMDL
+MODEL       39
+ATOM      1 F    F   A   1      -1.553  -0.345   1.257  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.553  -0.345   1.257  1.00  0.00           F  
+ENDMDL
+MODEL       40
+ATOM      1 F    F   A   1      -1.434  -0.380   1.382  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.434  -0.380   1.382  1.00  0.00           F  
+ENDMDL
+MODEL       41
+ATOM      1 F    F   A   1      -2.127   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.127   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       42
+ATOM      1 F    F   A   1      -2.119  -0.158   0.098  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.119  -0.158   0.098  1.00  0.00           F  
+ENDMDL
+MODEL       43
+ATOM      1 F    F   A   1      -2.095  -0.314   0.195  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.095  -0.314   0.195  1.00  0.00           F  
+ENDMDL
+MODEL       44
+ATOM      1 F    F   A   1      -2.055  -0.468   0.291  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.055  -0.468   0.291  1.00  0.00           F  
+ENDMDL
+MODEL       45
+ATOM      1 F    F   A   1      -1.999  -0.618   0.384  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.999  -0.618   0.384  1.00  0.00           F  
+ENDMDL
+MODEL       46
+ATOM      1 F    F   A   1      -1.928  -0.764   0.474  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.928  -0.764   0.474  1.00  0.00           F  
+ENDMDL
+MODEL       47
+ATOM      1 F    F   A   1      -1.842  -0.904   0.561  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.842  -0.904   0.561  1.00  0.00           F  
+ENDMDL
+MODEL       48
+ATOM      1 F    F   A   1      -1.743  -1.037   0.644  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.743  -1.037   0.644  1.00  0.00           F  
+ENDMDL
+MODEL       49
+ATOM      1 F    F   A   1      -1.630  -1.162   0.721  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.630  -1.162   0.721  1.00  0.00           F  
+ENDMDL
+MODEL       50
+ATOM      1 F    F   A   1      -1.504  -1.278   0.794  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.504  -1.278   0.794  1.00  0.00           F  
+ENDMDL
+MODEL       51
+ATOM      1 F    F   A   1      -2.227   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.227   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       52
+ATOM      1 F    F   A   1      -2.219  -0.053   0.187  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.219  -0.053   0.187  1.00  0.00           F  
+ENDMDL
+MODEL       53
+ATOM      1 F    F   A   1      -2.194  -0.106   0.372  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.194  -0.106   0.372  1.00  0.00           F  
+ENDMDL
+MODEL       54
+ATOM      1 F    F   A   1      -2.151  -0.158   0.554  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.151  -0.158   0.554  1.00  0.00           F  
+ENDMDL
+MODEL       55
+ATOM      1 F    F   A   1      -2.093  -0.209   0.733  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.093  -0.209   0.733  1.00  0.00           F  
+ENDMDL
+MODEL       56
+ATOM      1 F    F   A   1      -2.019  -0.258   0.905  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.019  -0.258   0.905  1.00  0.00           F  
+ENDMDL
+MODEL       57
+ATOM      1 F    F   A   1      -1.929  -0.305   1.071  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.929  -0.305   1.071  1.00  0.00           F  
+ENDMDL
+MODEL       58
+ATOM      1 F    F   A   1      -1.825  -0.350   1.229  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.825  -0.350   1.229  1.00  0.00           F  
+ENDMDL
+MODEL       59
+ATOM      1 F    F   A   1      -1.706  -0.392   1.377  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.706  -0.392   1.377  1.00  0.00           F  
+ENDMDL
+MODEL       60
+ATOM      1 F    F   A   1      -1.575  -0.431   1.515  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.575  -0.431   1.515  1.00  0.00           F  
+ENDMDL
+MODEL       61
+ATOM      1 F    F   A   1      -2.327   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.327   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       62
+ATOM      1 F    F   A   1      -2.319  -0.152   0.134  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.319  -0.152   0.134  1.00  0.00           F  
+ENDMDL
+MODEL       63
+ATOM      1 F    F   A   1      -2.292  -0.304   0.267  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.292  -0.304   0.267  1.00  0.00           F  
+ENDMDL
+MODEL       64
+ATOM      1 F    F   A   1      -2.248  -0.452   0.398  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.248  -0.452   0.398  1.00  0.00           F  
+ENDMDL
+MODEL       65
+ATOM      1 F    F   A   1      -2.187  -0.598   0.526  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.187  -0.598   0.526  1.00  0.00           F  
+ENDMDL
+MODEL       66
+ATOM      1 F    F   A   1      -2.109  -0.739   0.649  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.109  -0.739   0.649  1.00  0.00           F  
+ENDMDL
+MODEL       67
+ATOM      1 F    F   A   1      -2.016  -0.874   0.768  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.016  -0.874   0.768  1.00  0.00           F  
+ENDMDL
+MODEL       68
+ATOM      1 F    F   A   1      -1.906  -1.003   0.881  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.906  -1.003   0.881  1.00  0.00           F  
+ENDMDL
+MODEL       69
+ATOM      1 F    F   A   1      -1.783  -1.124   0.988  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.783  -1.124   0.988  1.00  0.00           F  
+ENDMDL
+MODEL       70
+ATOM      1 F    F   A   1      -1.646  -1.236   1.086  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.646  -1.236   1.086  1.00  0.00           F  
+ENDMDL
+MODEL       71
+ATOM      1 F    F   A   1      -2.427   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.427   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       72
+ATOM      1 F    F   A   1      -2.418  -0.207   0.042  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.418  -0.207   0.042  1.00  0.00           F  
+ENDMDL
+MODEL       73
+ATOM      1 F    F   A   1      -2.390  -0.413   0.084  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.390  -0.413   0.084  1.00  0.00           F  
+ENDMDL
+MODEL       74
+ATOM      1 F    F   A   1      -2.345  -0.616   0.125  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.345  -0.616   0.125  1.00  0.00           F  
+ENDMDL
+MODEL       75
+ATOM      1 F    F   A   1      -2.281  -0.814   0.165  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.281  -0.814   0.165  1.00  0.00           F  
+ENDMDL
+MODEL       76
+ATOM      1 F    F   A   1      -2.200  -1.005   0.204  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.200  -1.005   0.204  1.00  0.00           F  
+ENDMDL
+MODEL       77
+ATOM      1 F    F   A   1      -2.102  -1.189   0.241  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.102  -1.189   0.241  1.00  0.00           F  
+ENDMDL
+MODEL       78
+ATOM      1 F    F   A   1      -1.988  -1.364   0.277  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.988  -1.364   0.277  1.00  0.00           F  
+ENDMDL
+MODEL       79
+ATOM      1 F    F   A   1      -1.859  -1.529   0.310  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.859  -1.529   0.310  1.00  0.00           F  
+ENDMDL
+MODEL       80
+ATOM      1 F    F   A   1      -1.716  -1.682   0.341  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.716  -1.682   0.341  1.00  0.00           F  
+ENDMDL
+MODEL       81
+ATOM      1 F    F   A   1      -2.527   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.527   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       82
+ATOM      1 F    F   A   1      -2.518  -0.051   0.214  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.518  -0.051   0.214  1.00  0.00           F  
+ENDMDL
+MODEL       83
+ATOM      1 F    F   A   1      -2.489  -0.102   0.427  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.489  -0.102   0.427  1.00  0.00           F  
+ENDMDL
+MODEL       84
+ATOM      1 F    F   A   1      -2.441  -0.153   0.636  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.441  -0.153   0.636  1.00  0.00           F  
+ENDMDL
+MODEL       85
+ATOM      1 F    F   A   1      -2.375  -0.202   0.841  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.375  -0.202   0.841  1.00  0.00           F  
+ENDMDL
+MODEL       86
+ATOM      1 F    F   A   1      -2.291  -0.249   1.039  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.291  -0.249   1.039  1.00  0.00           F  
+ENDMDL
+MODEL       87
+ATOM      1 F    F   A   1      -2.189  -0.295   1.229  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.189  -0.295   1.229  1.00  0.00           F  
+ENDMDL
+MODEL       88
+ATOM      1 F    F   A   1      -2.070  -0.338   1.410  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.070  -0.338   1.410  1.00  0.00           F  
+ENDMDL
+MODEL       89
+ATOM      1 F    F   A   1      -1.936  -0.379   1.580  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.936  -0.379   1.580  1.00  0.00           F  
+ENDMDL
+MODEL       90
+ATOM      1 F    F   A   1      -1.787  -0.417   1.738  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.787  -0.417   1.738  1.00  0.00           F  
+ENDMDL
+MODEL       91
+ATOM      1 F    F   A   1      -2.627   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.627   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL       92
+ATOM      1 F    F   A   1      -2.617  -0.098   0.207  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.617  -0.098   0.207  1.00  0.00           F  
+ENDMDL
+MODEL       93
+ATOM      1 F    F   A   1      -2.587  -0.195   0.413  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.587  -0.195   0.413  1.00  0.00           F  
+ENDMDL
+MODEL       94
+ATOM      1 F    F   A   1      -2.538  -0.290   0.615  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.538  -0.290   0.615  1.00  0.00           F  
+ENDMDL
+MODEL       95
+ATOM      1 F    F   A   1      -2.469  -0.383   0.813  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.469  -0.383   0.813  1.00  0.00           F  
+ENDMDL
+MODEL       96
+ATOM      1 F    F   A   1      -2.381  -0.474   1.004  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.381  -0.474   1.004  1.00  0.00           F  
+ENDMDL
+MODEL       97
+ATOM      1 F    F   A   1      -2.275  -0.560   1.188  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.275  -0.560   1.188  1.00  0.00           F  
+ENDMDL
+MODEL       98
+ATOM      1 F    F   A   1      -2.152  -0.643   1.363  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.152  -0.643   1.363  1.00  0.00           F  
+ENDMDL
+MODEL       99
+ATOM      1 F    F   A   1      -2.013  -0.720   1.527  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.013  -0.720   1.527  1.00  0.00           F  
+ENDMDL
+MODEL      100
+ATOM      1 F    F   A   1      -1.858  -0.793   1.680  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.858  -0.793   1.680  1.00  0.00           F  
+ENDMDL
+MODEL      101
+ATOM      1 F    F   A   1      -2.727   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.727   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      102
+ATOM      1 F    F   A   1      -2.717  -0.217   0.097  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.717  -0.217   0.097  1.00  0.00           F  
+ENDMDL
+MODEL      103
+ATOM      1 F    F   A   1      -2.686  -0.433   0.192  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.686  -0.433   0.192  1.00  0.00           F  
+ENDMDL
+MODEL      104
+ATOM      1 F    F   A   1      -2.634  -0.645   0.287  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.634  -0.645   0.287  1.00  0.00           F  
+ENDMDL
+MODEL      105
+ATOM      1 F    F   A   1      -2.563  -0.852   0.379  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.563  -0.852   0.379  1.00  0.00           F  
+ENDMDL
+MODEL      106
+ATOM      1 F    F   A   1      -2.472  -1.053   0.468  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.472  -1.053   0.468  1.00  0.00           F  
+ENDMDL
+MODEL      107
+ATOM      1 F    F   A   1      -2.362  -1.246   0.554  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.362  -1.246   0.554  1.00  0.00           F  
+ENDMDL
+MODEL      108
+ATOM      1 F    F   A   1      -2.234  -1.429   0.636  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.234  -1.429   0.636  1.00  0.00           F  
+ENDMDL
+MODEL      109
+ATOM      1 F    F   A   1      -2.089  -1.602   0.712  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.089  -1.602   0.712  1.00  0.00           F  
+ENDMDL
+MODEL      110
+ATOM      1 F    F   A   1      -1.929  -1.762   0.783  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.929  -1.762   0.783  1.00  0.00           F  
+ENDMDL
+MODEL      111
+ATOM      1 F    F   A   1      -2.827   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.827   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      112
+ATOM      1 F    F   A   1      -2.817  -0.214   0.121  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.817  -0.214   0.121  1.00  0.00           F  
+ENDMDL
+MODEL      113
+ATOM      1 F    F   A   1      -2.784  -0.427   0.242  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.784  -0.427   0.242  1.00  0.00           F  
+ENDMDL
+MODEL      114
+ATOM      1 F    F   A   1      -2.731  -0.637   0.361  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.731  -0.637   0.361  1.00  0.00           F  
+ENDMDL
+MODEL      115
+ATOM      1 F    F   A   1      -2.657  -0.842   0.476  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.657  -0.842   0.476  1.00  0.00           F  
+ENDMDL
+MODEL      116
+ATOM      1 F    F   A   1      -2.562  -1.040   0.589  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.562  -1.040   0.589  1.00  0.00           F  
+ENDMDL
+MODEL      117
+ATOM      1 F    F   A   1      -2.449  -1.230   0.696  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.449  -1.230   0.696  1.00  0.00           F  
+ENDMDL
+MODEL      118
+ATOM      1 F    F   A   1      -2.316  -1.411   0.799  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.316  -1.411   0.799  1.00  0.00           F  
+ENDMDL
+MODEL      119
+ATOM      1 F    F   A   1      -2.166  -1.582   0.895  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.166  -1.582   0.895  1.00  0.00           F  
+ENDMDL
+MODEL      120
+ATOM      1 F    F   A   1      -1.999  -1.740   0.985  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       1.999  -1.740   0.985  1.00  0.00           F  
+ENDMDL
+MODEL      121
+ATOM      1 F    F   A   1      -2.927   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.927   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      122
+ATOM      1 F    F   A   1      -2.916  -0.244   0.073  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.916  -0.244   0.073  1.00  0.00           F  
+ENDMDL
+MODEL      123
+ATOM      1 F    F   A   1      -2.883  -0.487   0.146  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.883  -0.487   0.146  1.00  0.00           F  
+ENDMDL
+MODEL      124
+ATOM      1 F    F   A   1      -2.828  -0.726   0.218  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.828  -0.726   0.218  1.00  0.00           F  
+ENDMDL
+MODEL      125
+ATOM      1 F    F   A   1      -2.751  -0.959   0.288  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.751  -0.959   0.288  1.00  0.00           F  
+ENDMDL
+MODEL      126
+ATOM      1 F    F   A   1      -2.653  -1.185   0.355  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.653  -1.185   0.355  1.00  0.00           F  
+ENDMDL
+MODEL      127
+ATOM      1 F    F   A   1      -2.535  -1.402   0.420  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.535  -1.402   0.420  1.00  0.00           F  
+ENDMDL
+MODEL      128
+ATOM      1 F    F   A   1      -2.398  -1.608   0.482  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.398  -1.608   0.482  1.00  0.00           F  
+ENDMDL
+MODEL      129
+ATOM      1 F    F   A   1      -2.242  -1.802   0.540  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.242  -1.802   0.540  1.00  0.00           F  
+ENDMDL
+MODEL      130
+ATOM      1 F    F   A   1      -2.070  -1.983   0.594  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.070  -1.983   0.594  1.00  0.00           F  
+ENDMDL
+MODEL      131
+ATOM      1 F    F   A   1      -3.027   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.027   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      132
+ATOM      1 F    F   A   1      -3.016  -0.249   0.089  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.016  -0.249   0.089  1.00  0.00           F  
+ENDMDL
+MODEL      133
+ATOM      1 F    F   A   1      -2.981  -0.495   0.177  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.981  -0.495   0.177  1.00  0.00           F  
+ENDMDL
+MODEL      134
+ATOM      1 F    F   A   1      -2.924  -0.738   0.263  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.924  -0.738   0.263  1.00  0.00           F  
+ENDMDL
+MODEL      135
+ATOM      1 F    F   A   1      -2.845  -0.975   0.348  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.845  -0.975   0.348  1.00  0.00           F  
+ENDMDL
+MODEL      136
+ATOM      1 F    F   A   1      -2.744  -1.205   0.430  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.744  -1.205   0.430  1.00  0.00           F  
+ENDMDL
+MODEL      137
+ATOM      1 F    F   A   1      -2.622  -1.426   0.508  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.622  -1.426   0.508  1.00  0.00           F  
+ENDMDL
+MODEL      138
+ATOM      1 F    F   A   1      -2.480  -1.636   0.583  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.480  -1.636   0.583  1.00  0.00           F  
+ENDMDL
+MODEL      139
+ATOM      1 F    F   A   1      -2.319  -1.833   0.653  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.319  -1.833   0.653  1.00  0.00           F  
+ENDMDL
+MODEL      140
+ATOM      1 F    F   A   1      -2.141  -2.016   0.719  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.141  -2.016   0.719  1.00  0.00           F  
+ENDMDL
+MODEL      141
+ATOM      1 F    F   A   1      -3.127   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.127   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      142
+ATOM      1 F    F   A   1      -3.115  -0.201   0.184  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.115  -0.201   0.184  1.00  0.00           F  
+ENDMDL
+MODEL      143
+ATOM      1 F    F   A   1      -3.080  -0.400   0.367  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.080  -0.400   0.367  1.00  0.00           F  
+ENDMDL
+MODEL      144
+ATOM      1 F    F   A   1      -3.021  -0.597   0.547  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.021  -0.597   0.547  1.00  0.00           F  
+ENDMDL
+MODEL      145
+ATOM      1 F    F   A   1      -2.939  -0.788   0.723  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.939  -0.788   0.723  1.00  0.00           F  
+ENDMDL
+MODEL      146
+ATOM      1 F    F   A   1      -2.834  -0.974   0.893  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.834  -0.974   0.893  1.00  0.00           F  
+ENDMDL
+MODEL      147
+ATOM      1 F    F   A   1      -2.708  -1.152   1.057  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.708  -1.152   1.057  1.00  0.00           F  
+ENDMDL
+MODEL      148
+ATOM      1 F    F   A   1      -2.562  -1.322   1.212  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.562  -1.322   1.212  1.00  0.00           F  
+ENDMDL
+MODEL      149
+ATOM      1 F    F   A   1      -2.396  -1.481   1.359  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.396  -1.481   1.359  1.00  0.00           F  
+ENDMDL
+MODEL      150
+ATOM      1 F    F   A   1      -2.211  -1.630   1.495  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.211  -1.630   1.495  1.00  0.00           F  
+ENDMDL
+MODEL      151
+ATOM      1 F    F   A   1      -3.227   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.227   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      152
+ATOM      1 F    F   A   1      -3.215  -0.264   0.098  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.215  -0.264   0.098  1.00  0.00           F  
+ENDMDL
+MODEL      153
+ATOM      1 F    F   A   1      -3.178  -0.525   0.195  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.178  -0.525   0.195  1.00  0.00           F  
+ENDMDL
+MODEL      154
+ATOM      1 F    F   A   1      -3.117  -0.783   0.290  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.117  -0.783   0.290  1.00  0.00           F  
+ENDMDL
+MODEL      155
+ATOM      1 F    F   A   1      -3.033  -1.035   0.384  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.033  -1.035   0.384  1.00  0.00           F  
+ENDMDL
+MODEL      156
+ATOM      1 F    F   A   1      -2.925  -1.279   0.474  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.925  -1.279   0.474  1.00  0.00           F  
+ENDMDL
+MODEL      157
+ATOM      1 F    F   A   1      -2.795  -1.513   0.561  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.795  -1.513   0.561  1.00  0.00           F  
+ENDMDL
+MODEL      158
+ATOM      1 F    F   A   1      -2.644  -1.736   0.643  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.644  -1.736   0.643  1.00  0.00           F  
+ENDMDL
+MODEL      159
+ATOM      1 F    F   A   1      -2.472  -1.945   0.721  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.472  -1.945   0.721  1.00  0.00           F  
+ENDMDL
+MODEL      160
+ATOM      1 F    F   A   1      -2.282  -2.140   0.793  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.282  -2.140   0.793  1.00  0.00           F  
+ENDMDL
+MODEL      161
+ATOM      1 F    F   A   1      -3.327   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.327   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      162
+ATOM      1 F    F   A   1      -3.315  -0.271   0.104  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.315  -0.271   0.104  1.00  0.00           F  
+ENDMDL
+MODEL      163
+ATOM      1 F    F   A   1      -3.277  -0.539   0.208  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.277  -0.539   0.208  1.00  0.00           F  
+ENDMDL
+MODEL      164
+ATOM      1 F    F   A   1      -3.214  -0.803   0.310  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.214  -0.803   0.310  1.00  0.00           F  
+ENDMDL
+MODEL      165
+ATOM      1 F    F   A   1      -3.127  -1.062   0.410  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.127  -1.062   0.410  1.00  0.00           F  
+ENDMDL
+MODEL      166
+ATOM      1 F    F   A   1      -3.016  -1.312   0.506  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.016  -1.312   0.506  1.00  0.00           F  
+ENDMDL
+MODEL      167
+ATOM      1 F    F   A   1      -2.882  -1.552   0.599  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.882  -1.552   0.599  1.00  0.00           F  
+ENDMDL
+MODEL      168
+ATOM      1 F    F   A   1      -2.726  -1.781   0.687  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.726  -1.781   0.687  1.00  0.00           F  
+ENDMDL
+MODEL      169
+ATOM      1 F    F   A   1      -2.549  -1.996   0.770  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.549  -1.996   0.770  1.00  0.00           F  
+ENDMDL
+MODEL      170
+ATOM      1 F    F   A   1      -2.353  -2.195   0.847  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.353  -2.195   0.847  1.00  0.00           F  
+ENDMDL
+MODEL      171
+ATOM      1 F    F   A   1      -3.427   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.427   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      172
+ATOM      1 F    F   A   1      -3.414  -0.019   0.298  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.414  -0.019   0.298  1.00  0.00           F  
+ENDMDL
+MODEL      173
+ATOM      1 F    F   A   1      -3.375  -0.038   0.594  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.375  -0.038   0.594  1.00  0.00           F  
+ENDMDL
+MODEL      174
+ATOM      1 F    F   A   1      -3.311  -0.057   0.885  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.311  -0.057   0.885  1.00  0.00           F  
+ENDMDL
+MODEL      175
+ATOM      1 F    F   A   1      -3.221  -0.075   1.170  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.221  -0.075   1.170  1.00  0.00           F  
+ENDMDL
+MODEL      176
+ATOM      1 F    F   A   1      -3.106  -0.093   1.445  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.106  -0.093   1.445  1.00  0.00           F  
+ENDMDL
+MODEL      177
+ATOM      1 F    F   A   1      -2.968  -0.110   1.710  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.968  -0.110   1.710  1.00  0.00           F  
+ENDMDL
+MODEL      178
+ATOM      1 F    F   A   1      -2.808  -0.126   1.962  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.808  -0.126   1.962  1.00  0.00           F  
+ENDMDL
+MODEL      179
+ATOM      1 F    F   A   1      -2.626  -0.142   2.199  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.626  -0.142   2.199  1.00  0.00           F  
+ENDMDL
+MODEL      180
+ATOM      1 F    F   A   1      -2.424  -0.156   2.419  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.424  -0.156   2.419  1.00  0.00           F  
+ENDMDL
+MODEL      181
+ATOM      1 F    F   A   1      -3.527   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.527   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      182
+ATOM      1 F    F   A   1      -3.514  -0.298   0.075  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.514  -0.298   0.075  1.00  0.00           F  
+ENDMDL
+MODEL      183
+ATOM      1 F    F   A   1      -3.474  -0.594   0.149  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.474  -0.594   0.149  1.00  0.00           F  
+ENDMDL
+MODEL      184
+ATOM      1 F    F   A   1      -3.407  -0.886   0.222  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.407  -0.886   0.222  1.00  0.00           F  
+ENDMDL
+MODEL      185
+ATOM      1 F    F   A   1      -3.315  -1.170   0.293  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.315  -1.170   0.293  1.00  0.00           F  
+ENDMDL
+MODEL      186
+ATOM      1 F    F   A   1      -3.197  -1.446   0.362  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.197  -1.446   0.362  1.00  0.00           F  
+ENDMDL
+MODEL      187
+ATOM      1 F    F   A   1      -3.055  -1.711   0.428  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.055  -1.711   0.428  1.00  0.00           F  
+ENDMDL
+MODEL      188
+ATOM      1 F    F   A   1      -2.889  -1.963   0.491  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.889  -1.963   0.491  1.00  0.00           F  
+ENDMDL
+MODEL      189
+ATOM      1 F    F   A   1      -2.702  -2.199   0.551  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.702  -2.199   0.551  1.00  0.00           F  
+ENDMDL
+MODEL      190
+ATOM      1 F    F   A   1      -2.494  -2.420   0.606  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.494  -2.420   0.606  1.00  0.00           F  
+ENDMDL
+MODEL      191
+ATOM      1 F    F   A   1      -3.627   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.627   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      192
+ATOM      1 F    F   A   1      -3.614  -0.295   0.115  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.614  -0.295   0.115  1.00  0.00           F  
+ENDMDL
+MODEL      193
+ATOM      1 F    F   A   1      -3.572  -0.587   0.228  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.572  -0.587   0.228  1.00  0.00           F  
+ENDMDL
+MODEL      194
+ATOM      1 F    F   A   1      -3.504  -0.875   0.340  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.504  -0.875   0.340  1.00  0.00           F  
+ENDMDL
+MODEL      195
+ATOM      1 F    F   A   1      -3.409  -1.156   0.450  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.409  -1.156   0.450  1.00  0.00           F  
+ENDMDL
+MODEL      196
+ATOM      1 F    F   A   1      -3.288  -1.429   0.555  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.288  -1.429   0.555  1.00  0.00           F  
+ENDMDL
+MODEL      197
+ATOM      1 F    F   A   1      -3.141  -1.690   0.657  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.141  -1.690   0.657  1.00  0.00           F  
+ENDMDL
+MODEL      198
+ATOM      1 F    F   A   1      -2.971  -1.939   0.754  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.971  -1.939   0.754  1.00  0.00           F  
+ENDMDL
+MODEL      199
+ATOM      1 F    F   A   1      -2.779  -2.173   0.845  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.779  -2.173   0.845  1.00  0.00           F  
+ENDMDL
+MODEL      200
+ATOM      1 F    F   A   1      -2.565  -2.391   0.929  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.565  -2.391   0.929  1.00  0.00           F  
+ENDMDL
+MODEL      201
+ATOM      1 F    F   A   1      -3.727   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.727   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      202
+ATOM      1 F    F   A   1      -3.713  -0.257   0.198  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.713  -0.257   0.198  1.00  0.00           F  
+ENDMDL
+MODEL      203
+ATOM      1 F    F   A   1      -3.671  -0.513   0.395  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.671  -0.513   0.395  1.00  0.00           F  
+ENDMDL
+MODEL      204
+ATOM      1 F    F   A   1      -3.600  -0.764   0.589  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.600  -0.764   0.589  1.00  0.00           F  
+ENDMDL
+MODEL      205
+ATOM      1 F    F   A   1      -3.503  -1.010   0.778  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.503  -1.010   0.778  1.00  0.00           F  
+ENDMDL
+MODEL      206
+ATOM      1 F    F   A   1      -3.378  -1.248   0.961  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.378  -1.248   0.961  1.00  0.00           F  
+ENDMDL
+MODEL      207
+ATOM      1 F    F   A   1      -3.228  -1.476   1.137  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.228  -1.476   1.137  1.00  0.00           F  
+ENDMDL
+MODEL      208
+ATOM      1 F    F   A   1      -3.053  -1.694   1.305  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.053  -1.694   1.305  1.00  0.00           F  
+ENDMDL
+MODEL      209
+ATOM      1 F    F   A   1      -2.855  -1.898   1.462  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.855  -1.898   1.462  1.00  0.00           F  
+ENDMDL
+MODEL      210
+ATOM      1 F    F   A   1      -2.636  -2.088   1.609  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.636  -2.088   1.609  1.00  0.00           F  
+ENDMDL
+MODEL      211
+ATOM      1 F    F   A   1      -3.827   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.827   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      212
+ATOM      1 F    F   A   1      -3.813  -0.226   0.246  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.813  -0.226   0.246  1.00  0.00           F  
+ENDMDL
+MODEL      213
+ATOM      1 F    F   A   1      -3.769  -0.450   0.490  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.769  -0.450   0.490  1.00  0.00           F  
+ENDMDL
+MODEL      214
+ATOM      1 F    F   A   1      -3.697  -0.670   0.730  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.697  -0.670   0.730  1.00  0.00           F  
+ENDMDL
+MODEL      215
+ATOM      1 F    F   A   1      -3.597  -0.885   0.964  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.597  -0.885   0.964  1.00  0.00           F  
+ENDMDL
+MODEL      216
+ATOM      1 F    F   A   1      -3.469  -1.094   1.191  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.469  -1.094   1.191  1.00  0.00           F  
+ENDMDL
+MODEL      217
+ATOM      1 F    F   A   1      -3.315  -1.294   1.409  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.315  -1.294   1.409  1.00  0.00           F  
+ENDMDL
+MODEL      218
+ATOM      1 F    F   A   1      -3.135  -1.485   1.617  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.135  -1.485   1.617  1.00  0.00           F  
+ENDMDL
+MODEL      219
+ATOM      1 F    F   A   1      -2.932  -1.664   1.812  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.932  -1.664   1.812  1.00  0.00           F  
+ENDMDL
+MODEL      220
+ATOM      1 F    F   A   1      -2.706  -1.831   1.993  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.706  -1.831   1.993  1.00  0.00           F  
+ENDMDL
+MODEL      221
+ATOM      1 F    F   A   1      -3.927   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.927   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      222
+ATOM      1 F    F   A   1      -3.912  -0.302   0.162  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.912  -0.302   0.162  1.00  0.00           F  
+ENDMDL
+MODEL      223
+ATOM      1 F    F   A   1      -3.868  -0.601   0.322  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.868  -0.601   0.322  1.00  0.00           F  
+ENDMDL
+MODEL      224
+ATOM      1 F    F   A   1      -3.794  -0.896   0.480  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.794  -0.896   0.480  1.00  0.00           F  
+ENDMDL
+MODEL      225
+ATOM      1 F    F   A   1      -3.691  -1.184   0.634  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.691  -1.184   0.634  1.00  0.00           F  
+ENDMDL
+MODEL      226
+ATOM      1 F    F   A   1      -3.559  -1.463   0.784  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.559  -1.463   0.784  1.00  0.00           F  
+ENDMDL
+MODEL      227
+ATOM      1 F    F   A   1      -3.401  -1.731   0.927  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.401  -1.731   0.927  1.00  0.00           F  
+ENDMDL
+MODEL      228
+ATOM      1 F    F   A   1      -3.217  -1.986   1.064  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.217  -1.986   1.064  1.00  0.00           F  
+ENDMDL
+MODEL      229
+ATOM      1 F    F   A   1      -3.009  -2.225   1.192  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.009  -2.225   1.192  1.00  0.00           F  
+ENDMDL
+MODEL      230
+ATOM      1 F    F   A   1      -2.777  -2.448   1.311  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.777  -2.448   1.311  1.00  0.00           F  
+ENDMDL
+MODEL      231
+ATOM      1 F    F   A   1      -4.027   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.027   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      232
+ATOM      1 F    F   A   1      -4.012  -0.320   0.145  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.012  -0.320   0.145  1.00  0.00           F  
+ENDMDL
+MODEL      233
+ATOM      1 F    F   A   1      -3.966  -0.637   0.289  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.966  -0.637   0.289  1.00  0.00           F  
+ENDMDL
+MODEL      234
+ATOM      1 F    F   A   1      -3.890  -0.950   0.430  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.890  -0.950   0.430  1.00  0.00           F  
+ENDMDL
+MODEL      235
+ATOM      1 F    F   A   1      -3.784  -1.255   0.568  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.784  -1.255   0.568  1.00  0.00           F  
+ENDMDL
+MODEL      236
+ATOM      1 F    F   A   1      -3.650  -1.550   0.702  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.650  -1.550   0.702  1.00  0.00           F  
+ENDMDL
+MODEL      237
+ATOM      1 F    F   A   1      -3.488  -1.834   0.831  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.488  -1.834   0.831  1.00  0.00           F  
+ENDMDL
+MODEL      238
+ATOM      1 F    F   A   1      -3.299  -2.104   0.953  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.299  -2.104   0.953  1.00  0.00           F  
+ENDMDL
+MODEL      239
+ATOM      1 F    F   A   1      -3.085  -2.358   1.068  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.085  -2.358   1.068  1.00  0.00           F  
+ENDMDL
+MODEL      240
+ATOM      1 F    F   A   1      -2.848  -2.594   1.175  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.848  -2.594   1.175  1.00  0.00           F  
+ENDMDL
+MODEL      241
+ATOM      1 F    F   A   1      -4.127   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.127   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      242
+ATOM      1 F    F   A   1      -4.112  -0.061   0.354  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.112  -0.061   0.354  1.00  0.00           F  
+ENDMDL
+MODEL      243
+ATOM      1 F    F   A   1      -4.065  -0.122   0.706  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.065  -0.122   0.706  1.00  0.00           F  
+ENDMDL
+MODEL      244
+ATOM      1 F    F   A   1      -3.987  -0.182   1.053  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.987  -0.182   1.053  1.00  0.00           F  
+ENDMDL
+MODEL      245
+ATOM      1 F    F   A   1      -3.878  -0.241   1.391  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.878  -0.241   1.391  1.00  0.00           F  
+ENDMDL
+MODEL      246
+ATOM      1 F    F   A   1      -3.741  -0.297   1.719  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.741  -0.297   1.719  1.00  0.00           F  
+ENDMDL
+MODEL      247
+ATOM      1 F    F   A   1      -3.574  -0.352   2.033  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.574  -0.352   2.033  1.00  0.00           F  
+ENDMDL
+MODEL      248
+ATOM      1 F    F   A   1      -3.381  -0.404   2.333  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.381  -0.404   2.333  1.00  0.00           F  
+ENDMDL
+MODEL      249
+ATOM      1 F    F   A   1      -3.162  -0.452   2.614  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.162  -0.452   2.614  1.00  0.00           F  
+ENDMDL
+MODEL      250
+ATOM      1 F    F   A   1      -2.918  -0.498   2.876  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.918  -0.498   2.876  1.00  0.00           F  
+ENDMDL
+MODEL      251
+ATOM      1 F    F   A   1      -4.227   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.227   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      252
+ATOM      1 F    F   A   1      -4.211  -0.320   0.182  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.211  -0.320   0.182  1.00  0.00           F  
+ENDMDL
+MODEL      253
+ATOM      1 F    F   A   1      -4.163  -0.639   0.362  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.163  -0.639   0.362  1.00  0.00           F  
+ENDMDL
+MODEL      254
+ATOM      1 F    F   A   1      -4.083  -0.952   0.540  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.083  -0.952   0.540  1.00  0.00           F  
+ENDMDL
+MODEL      255
+ATOM      1 F    F   A   1      -3.972  -1.258   0.713  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.972  -1.258   0.713  1.00  0.00           F  
+ENDMDL
+MODEL      256
+ATOM      1 F    F   A   1      -3.831  -1.554   0.881  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.831  -1.554   0.881  1.00  0.00           F  
+ENDMDL
+MODEL      257
+ATOM      1 F    F   A   1      -3.661  -1.839   1.043  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.661  -1.839   1.043  1.00  0.00           F  
+ENDMDL
+MODEL      258
+ATOM      1 F    F   A   1      -3.463  -2.109   1.196  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.463  -2.109   1.196  1.00  0.00           F  
+ENDMDL
+MODEL      259
+ATOM      1 F    F   A   1      -3.238  -2.364   1.341  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.238  -2.364   1.341  1.00  0.00           F  
+ENDMDL
+MODEL      260
+ATOM      1 F    F   A   1      -2.989  -2.600   1.475  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       2.989  -2.600   1.475  1.00  0.00           F  
+ENDMDL
+MODEL      261
+ATOM      1 F    F   A   1      -4.327   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.327   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      262
+ATOM      1 F    F   A   1      -4.311  -0.337   0.170  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.311  -0.337   0.170  1.00  0.00           F  
+ENDMDL
+MODEL      263
+ATOM      1 F    F   A   1      -4.262  -0.671   0.338  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.262  -0.671   0.338  1.00  0.00           F  
+ENDMDL
+MODEL      264
+ATOM      1 F    F   A   1      -4.180  -1.000   0.504  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.180  -1.000   0.504  1.00  0.00           F  
+ENDMDL
+MODEL      265
+ATOM      1 F    F   A   1      -4.066  -1.321   0.667  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.066  -1.321   0.667  1.00  0.00           F  
+ENDMDL
+MODEL      266
+ATOM      1 F    F   A   1      -3.922  -1.633   0.824  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.922  -1.633   0.824  1.00  0.00           F  
+ENDMDL
+MODEL      267
+ATOM      1 F    F   A   1      -3.748  -1.932   0.975  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.748  -1.932   0.975  1.00  0.00           F  
+ENDMDL
+MODEL      268
+ATOM      1 F    F   A   1      -3.545  -2.216   1.118  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.545  -2.216   1.118  1.00  0.00           F  
+ENDMDL
+MODEL      269
+ATOM      1 F    F   A   1      -3.315  -2.483   1.253  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.315  -2.483   1.253  1.00  0.00           F  
+ENDMDL
+MODEL      270
+ATOM      1 F    F   A   1      -3.060  -2.732   1.378  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.060  -2.732   1.378  1.00  0.00           F  
+ENDMDL
+MODEL      271
+ATOM      1 F    F   A   1      -4.427   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.427   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      272
+ATOM      1 F    F   A   1      -4.411  -0.365   0.126  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.411  -0.365   0.126  1.00  0.00           F  
+ENDMDL
+MODEL      273
+ATOM      1 F    F   A   1      -4.360  -0.727   0.251  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.360  -0.727   0.251  1.00  0.00           F  
+ENDMDL
+MODEL      274
+ATOM      1 F    F   A   1      -4.277  -1.083   0.373  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.277  -1.083   0.373  1.00  0.00           F  
+ENDMDL
+MODEL      275
+ATOM      1 F    F   A   1      -4.160  -1.432   0.494  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.160  -1.432   0.494  1.00  0.00           F  
+ENDMDL
+MODEL      276
+ATOM      1 F    F   A   1      -4.013  -1.769   0.610  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.013  -1.769   0.610  1.00  0.00           F  
+ENDMDL
+MODEL      277
+ATOM      1 F    F   A   1      -3.834  -2.093   0.721  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.834  -2.093   0.721  1.00  0.00           F  
+ENDMDL
+MODEL      278
+ATOM      1 F    F   A   1      -3.627  -2.401   0.828  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.627  -2.401   0.828  1.00  0.00           F  
+ENDMDL
+MODEL      279
+ATOM      1 F    F   A   1      -3.392  -2.690   0.928  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.392  -2.690   0.928  1.00  0.00           F  
+ENDMDL
+MODEL      280
+ATOM      1 F    F   A   1      -3.131  -2.960   1.020  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.131  -2.960   1.020  1.00  0.00           F  
+ENDMDL
+MODEL      281
+ATOM      1 F    F   A   1      -4.527   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.527   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      282
+ATOM      1 F    F   A   1      -4.510  -0.288   0.269  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.510  -0.288   0.269  1.00  0.00           F  
+ENDMDL
+MODEL      283
+ATOM      1 F    F   A   1      -4.459  -0.575   0.536  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.459  -0.575   0.536  1.00  0.00           F  
+ENDMDL
+MODEL      284
+ATOM      1 F    F   A   1      -4.373  -0.857   0.800  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.373  -0.857   0.800  1.00  0.00           F  
+ENDMDL
+MODEL      285
+ATOM      1 F    F   A   1      -4.254  -1.132   1.057  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.254  -1.132   1.057  1.00  0.00           F  
+ENDMDL
+MODEL      286
+ATOM      1 F    F   A   1      -4.103  -1.399   1.306  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.103  -1.399   1.306  1.00  0.00           F  
+ENDMDL
+MODEL      287
+ATOM      1 F    F   A   1      -3.921  -1.655   1.545  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.921  -1.655   1.545  1.00  0.00           F  
+ENDMDL
+MODEL      288
+ATOM      1 F    F   A   1      -3.709  -1.898   1.772  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.709  -1.898   1.772  1.00  0.00           F  
+ENDMDL
+MODEL      289
+ATOM      1 F    F   A   1      -3.468  -2.127   1.986  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.468  -2.127   1.986  1.00  0.00           F  
+ENDMDL
+MODEL      290
+ATOM      1 F    F   A   1      -3.201  -2.340   2.185  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.201  -2.340   2.185  1.00  0.00           F  
+ENDMDL
+MODEL      291
+ATOM      1 F    F   A   1      -4.627   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.627   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      292
+ATOM      1 F    F   A   1      -4.610  -0.148   0.375  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.610  -0.148   0.375  1.00  0.00           F  
+ENDMDL
+MODEL      293
+ATOM      1 F    F   A   1      -4.557  -0.295   0.747  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.557  -0.295   0.747  1.00  0.00           F  
+ENDMDL
+MODEL      294
+ATOM      1 F    F   A   1      -4.470  -0.440   1.114  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.470  -0.440   1.114  1.00  0.00           F  
+ENDMDL
+MODEL      295
+ATOM      1 F    F   A   1      -4.348  -0.582   1.472  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.348  -0.582   1.472  1.00  0.00           F  
+ENDMDL
+MODEL      296
+ATOM      1 F    F   A   1      -4.194  -0.719   1.819  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.194  -0.719   1.819  1.00  0.00           F  
+ENDMDL
+MODEL      297
+ATOM      1 F    F   A   1      -4.007  -0.850   2.152  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.007  -0.850   2.152  1.00  0.00           F  
+ENDMDL
+MODEL      298
+ATOM      1 F    F   A   1      -3.791  -0.975   2.468  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.791  -0.975   2.468  1.00  0.00           F  
+ENDMDL
+MODEL      299
+ATOM      1 F    F   A   1      -3.545  -1.093   2.766  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.545  -1.093   2.766  1.00  0.00           F  
+ENDMDL
+MODEL      300
+ATOM      1 F    F   A   1      -3.272  -1.202   3.043  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.272  -1.202   3.043  1.00  0.00           F  
+ENDMDL
+MODEL      301
+ATOM      1 F    F   A   1      -4.727   0.000   0.000  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.727   0.000   0.000  1.00  0.00           F  
+ENDMDL
+MODEL      302
+ATOM      1 F    F   A   1      -4.709  -0.153   0.382  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.709  -0.153   0.382  1.00  0.00           F  
+ENDMDL
+MODEL      303
+ATOM      1 F    F   A   1      -4.656  -0.305   0.762  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.656  -0.305   0.762  1.00  0.00           F  
+ENDMDL
+MODEL      304
+ATOM      1 F    F   A   1      -4.566  -0.455   1.136  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.566  -0.455   1.136  1.00  0.00           F  
+ENDMDL
+MODEL      305
+ATOM      1 F    F   A   1      -4.442  -0.601   1.501  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.442  -0.601   1.501  1.00  0.00           F  
+ENDMDL
+MODEL      306
+ATOM      1 F    F   A   1      -4.284  -0.743   1.855  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.284  -0.743   1.855  1.00  0.00           F  
+ENDMDL
+MODEL      307
+ATOM      1 F    F   A   1      -4.094  -0.879   2.194  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       4.094  -0.879   2.194  1.00  0.00           F  
+ENDMDL
+MODEL      308
+ATOM      1 F    F   A   1      -3.872  -1.008   2.517  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.872  -1.008   2.517  1.00  0.00           F  
+ENDMDL
+MODEL      309
+ATOM      1 F    F   A   1      -3.621  -1.130   2.821  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.621  -1.130   2.821  1.00  0.00           F  
+ENDMDL
+MODEL      310
+ATOM      1 F    F   A   1      -3.343  -1.243   3.103  1.00  0.00           F  
+ATOM      2 CA   CA  A   2       0.000   0.000   0.000  1.00  0.00          Ca  
+ATOM      3 F    F   A   3       3.343  -1.243   3.103  1.00  0.00           F  
+ENDMDL
+END
